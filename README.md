@@ -1,3 +1,3 @@
 # personal_agent
 
-Here I am playing around with coding an ai agent that fetches the current btc price and current crypto and finance news to make an proffessional reccomandation of weather to buy, sell or hold btc.
+Here, I am experimenting with coding an AI agent that fetches the current BTC price and the latest cryptocurrency and finance news to make a professional recommendation on whether to buy, sell, or hold BTC.
